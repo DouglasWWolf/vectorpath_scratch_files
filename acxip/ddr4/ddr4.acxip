@@ -1,0 +1,28 @@
+#ACE 9.0.1 IP Properties File, generated on:
+#Wed May 03 14:37:26 CDT 2023
+3d_stack=No
+acxip_version=6
+data_rate=3200
+dc_axi_clock_name=ddr4_dc_clk
+ddr_core_clock_name=ddr4_clk
+ddr_standard=DDR4
+device=MT40A512M16LY-062E
+device_type=Component
+dimm_data_width=64
+dimm_density=N/A
+dram_data_width=16
+dram_density=8
+ecc_enable=No
+enable_dc_axi_interface=No
+enable_dc_bypass_interface=No
+enable_dc_interrupts_interface=No
+library=Speedster7t
+name=DDR4
+noc_axi_clock_name=ddr4_clk
+num_ranks=N/A
+num_slots=N/A
+output.path_relative_to=ACXIP File
+placement=DDR4
+reset_source=Internal Reset from FCU
+reset_source_name=ddr4_rstn
+target_device=AC7t1500
